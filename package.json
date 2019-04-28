@@ -1,0 +1,16 @@
+{
+  "name": "mjs-mocha-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "mjs-test": "mjs-mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mjs-mocha": "^2.2.4",
+    "mocha": "^6.1.4"
+  }
+}
